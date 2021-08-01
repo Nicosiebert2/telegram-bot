@@ -44,7 +44,7 @@ def mostrar_botones(update, btn1, btn2, btn3, btn4):
 
 #para enlazar el token y añadir comandos
 
-updater = Updater("1947126220:AAGCjUQp9iYNP40mnmaFBndHLLCRBQ4YyQw")
+updater = Updater("Tu token")
 
 #Comandos
 dp = updater.dispatcher
